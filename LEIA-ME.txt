@@ -1,0 +1,7 @@
+Aplicacao feita toda em .net core 3.0
+
+1 - Mudar String connection do arquivo appsettings.json do projeto WebMotors.Site e WebMotors.IO.Infra.Data 
+	para uma existente de voces
+2 - Rodar Update-Database do Migrations caso nao tenha o banco ainda.
+3 - rodar a aplicacao normalmente pelo website e ir no Menu Anuncios.
+
